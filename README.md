@@ -82,7 +82,7 @@ Thursday ABC hours for XYZ (at least 2-3 lines summary)
 
 
 
-##Week 1 (Sept 25 - Oct 1) logs:
+## Week 1 (Sept 25 - Oct 1) logs:
 
 Link to github repo:
 Link to reproduce latest results (reproducibility document):
