@@ -1,9 +1,10 @@
 # Research Log - Philly Lim
 
-
+____
 
 Link to code repository (e.g., github links) or project files: <Insert links here>
 Link to the documentation/reproducibility document: <Insert link here>
+____
 
 Fall 2022
 Week 1
